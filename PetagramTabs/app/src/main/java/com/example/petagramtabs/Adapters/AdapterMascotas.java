@@ -1,7 +1,6 @@
 package com.example.petagramtabs.Adapters;
 
 import android.app.Activity;
-import android.content.Intent;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -15,7 +14,6 @@ import androidx.recyclerview.widget.RecyclerView;
 
 
 import com.example.petagramtabs.Constructores.ConstructorMascota;
-import com.example.petagramtabs.Main2Activity;
 import com.example.petagramtabs.Mascota;
 import com.example.petagramtabs.R;
 

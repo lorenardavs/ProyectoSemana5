@@ -29,11 +29,21 @@
         android:textStyle="bold|italic"
         android:layout_below="@id/circular_image"/>
     <TextView
+        android:id="@+id/txt_pais"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:gravity="center_horizontal"
+        android:text="Bogotá - Colombia"
+        android:textSize="18dp"
+        android:layout_below="@id/text_desarrollador"/>
+    <TextView
+        android:id="@+id/txt_version"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="5dp"
         android:gravity="center_horizontal"
         android:text="Version: 1.0"
         android:textSize="18dp"
-        android:layout_below="@id/text_desarrollador"/>
+        android:layout_below="@id/txt_pais"/>
 </RelativeLayout>
