@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Petagram</string>
+
+    <string name="tituloapp">Petagram</string>
+    <string name="nombre">nombre</string>
+    <string name="int_5">5</string>
+
+    <string name="tab_text_1">inicio</string>
+    <string name="tab_text_2">Perfil</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="texto_titulo">Formulario Contacto</string>
+    <string name="edit_nombre">Nombre Completo</string>
+    <string name="edit_correo">Email</string>
+    <string name="edit_descripcion">Descripcion</string>
+    <string name="text_boton_enviar">Enviar Correo</string>
+    <string name="txt_desarrollador">Desarrollado por: Ing. Lorena Vergara</string>
+</resources>
