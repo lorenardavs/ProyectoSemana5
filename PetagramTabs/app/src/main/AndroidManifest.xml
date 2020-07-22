@@ -10,17 +10,17 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".InfoAcercadeActivity"></activity>
-        <activity android:name=".Actividades.AcercadeActivity"
+        <activity android:name=".AcercadeActivity"
             android:theme="@style/AppTheme.NoActionBar"/>
         <activity
-            android:name=".Actividades.ContactoActivity"
+            android:name=".ContactoActivity"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".Actividades.Main2Activity"
+            android:name=".RecyclerFavoritosActivity"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".FormContactoActivity" />
         <activity
-            android:name=".Actividades.MainActivity"
+            android:name=".MainActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>

@@ -35,11 +35,8 @@ public class RecycleriniFragment extends Fragment implements IRecycleriniFragmen
     private String mParam2;
 
     ArrayList<Mascota> listMascotas;
-
     RecyclerView recyclerMascotas;
-
     public AdapterMascotas adapter;
-
     private IRecyclerInitFragmentPresenter presenter;
 
     public RecycleriniFragment() {

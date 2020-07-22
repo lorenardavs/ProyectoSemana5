@@ -78,6 +78,7 @@ public class ConstructorMascota {
         contentValues.put(ConstantesBaseDatos.TABLE_MASCOTA_NOMBRE, "Rose");
         contentValues.put(ConstantesBaseDatos.TABLE_MASCOTA_FOTO,R.drawable.img1);
         db.insertarMascota(contentValues);
+        db.close();
     }
 
     public void darLikeMascota(Mascota mascota){

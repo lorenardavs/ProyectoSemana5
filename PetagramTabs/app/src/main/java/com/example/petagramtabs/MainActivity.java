@@ -67,7 +67,7 @@ public class MainActivity extends AppCompatActivity
         int id = item.getItemId();
         switch (id){
             case R.id.action_opcion1:
-                Intent intent = new Intent(this, Main2Activity.class);
+                Intent intent = new Intent(this, RecyclerFavoritosActivity.class);
                 startActivity(intent);
                 break;
             case R.id.action_opcion2:

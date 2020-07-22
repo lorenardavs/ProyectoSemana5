@@ -2,8 +2,6 @@ package com.example.petagramtabs.Constructores;
 
 import android.content.Context;
 
-import com.example.petagramtabs.Mascota;
-import com.example.petagramtabs.MascotaFavorita;
 import com.example.petagramtabs.MascotasPerfil;
 import com.example.petagramtabs.R;
 
